@@ -6,8 +6,7 @@
  * Problem name: Boats to Save People
  * Problem link: https://leetcode.com/problems/boats-to-save-people/
  */
-
-public class BoatstoSavePeople{
+class BoatstoSavePeople{
     public int numRescueBoats(int[] people, int limit) {
         int sum=0;
         int boats = 1;

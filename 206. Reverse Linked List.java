@@ -6,7 +6,7 @@
  */
 
 
-public class ReverseLinkedList{
+class ReverseLinkedList{
     // Time Complexity: O(n)
     public ListNode reverseList(ListNode head) {
         ListNode rev = null;

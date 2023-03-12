@@ -1,6 +1,6 @@
 
 
-public class  DiameterOfBinaryTree {
+class  DiameterOfBinaryTree {
     // Time Complexity: O(N)
     // Avoid to call the recursive function twice for each node
     public int diameterOfBinaryTree(TreeNode root) {
