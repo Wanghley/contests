@@ -1,3 +1,5 @@
+// Problem link https://leetcode.com/problems/account-balance-after-rounded-purchase/description/
+
 class Solution{
     public int accountBalanceAfterPurchase(int purchaseAmount) {
         if(purchaseAmount%10==0){
